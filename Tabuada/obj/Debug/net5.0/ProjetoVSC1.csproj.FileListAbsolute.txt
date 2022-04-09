@@ -1,0 +1,16 @@
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\bin\Debug\net5.0\ProjetoVSC1.exe
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\bin\Debug\net5.0\ProjetoVSC1.deps.json
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\bin\Debug\net5.0\ProjetoVSC1.runtimeconfig.json
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\bin\Debug\net5.0\ProjetoVSC1.runtimeconfig.dev.json
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\bin\Debug\net5.0\ProjetoVSC1.dll
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\bin\Debug\net5.0\ProjetoVSC1.pdb
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\obj\Debug\net5.0\ProjetoVSC1.csproj.AssemblyReference.cache
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\obj\Debug\net5.0\ProjetoVSC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\obj\Debug\net5.0\ProjetoVSC1.AssemblyInfoInputs.cache
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\obj\Debug\net5.0\ProjetoVSC1.AssemblyInfo.cs
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\obj\Debug\net5.0\ProjetoVSC1.csproj.CoreCompileInputs.cache
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\obj\Debug\net5.0\ProjetoVSC1.dll
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\obj\Debug\net5.0\refint\ProjetoVSC1.dll
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\obj\Debug\net5.0\ProjetoVSC1.pdb
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\obj\Debug\net5.0\ProjetoVSC1.genruntimeconfig.cache
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\obj\Debug\net5.0\ref\ProjetoVSC1.dll

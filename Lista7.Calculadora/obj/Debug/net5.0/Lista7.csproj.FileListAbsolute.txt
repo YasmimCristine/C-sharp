@@ -1,0 +1,16 @@
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\Lista7\bin\Debug\net5.0\Lista7.exe
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\Lista7\bin\Debug\net5.0\Lista7.deps.json
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\Lista7\bin\Debug\net5.0\Lista7.runtimeconfig.json
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\Lista7\bin\Debug\net5.0\Lista7.runtimeconfig.dev.json
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\Lista7\bin\Debug\net5.0\Lista7.dll
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\Lista7\bin\Debug\net5.0\Lista7.pdb
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\Lista7\obj\Debug\net5.0\Lista7.csproj.AssemblyReference.cache
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\Lista7\obj\Debug\net5.0\Lista7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\Lista7\obj\Debug\net5.0\Lista7.AssemblyInfoInputs.cache
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\Lista7\obj\Debug\net5.0\Lista7.AssemblyInfo.cs
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\Lista7\obj\Debug\net5.0\Lista7.csproj.CoreCompileInputs.cache
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\Lista7\obj\Debug\net5.0\Lista7.dll
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\Lista7\obj\Debug\net5.0\refint\Lista7.dll
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\Lista7\obj\Debug\net5.0\Lista7.pdb
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\Lista7\obj\Debug\net5.0\Lista7.genruntimeconfig.cache
+C:\Users\daniz\Desktop\Curso Generetion\ProjetoVSC1\Lista7\obj\Debug\net5.0\ref\Lista7.dll
